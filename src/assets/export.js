@@ -179,6 +179,8 @@ export  {
     anirudhOnly,
     dayanandanOnly,
 
+    github,
+
     photo,
     grid,
     project1,
